@@ -1,2 +1,2 @@
-# html-css-animation-filter
-An exercise on CSS animations
+# Animations & Filters
+An exercise on CSS animations & filters.
